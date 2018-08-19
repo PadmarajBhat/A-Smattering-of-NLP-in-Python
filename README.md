@@ -1,3 +1,4 @@
+# Coming Soon...... I intend to build Python 3.6 version of the derived jupyter notebook..... Stay Tuned.... Below text are from the original repo and retained here to indicate the items to be covered in the new version.
 ## Hey YOU!
 **Yes, you. Don't try to use the code examples in this README. Instead, download the .ipynb file provided in this repository, fire up [iPython Notebook](http://ipython.org/notebook.html), and run the code there instead. Trust us, you'll like it much better.**
 
